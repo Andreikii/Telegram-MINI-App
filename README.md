@@ -1,8 +1,8 @@
 # Telegram-MINI-App
 Приложение для просмотра товаров и оформления заказа внутри Telegram
 
-https://app.weeek.net/s/razrabotka-telegram-mini-app-document-OTI5MjAxfGExNDVkZGQ0LWZhOWEtNDQzZS1hMzMxLWQ4MjE1NDVkN2M0Nw== (<- Ссылака на Wiki)
-https://www.figma.com/design/gUV1KIMcXHgeTD7CPpgyuM/Untitled?node-id=0-1&t=npze5Pe6ndpqNvU1-1 (<- Ссылка на макеты)
+https://app.weeek.net/s/razrabotka-telegram-mini-app-document-OTI5MjAxfGExNDVkZGQ0LWZhOWEtNDQzZS1hMzMxLWQ4MjE1NDVkN2M0Nw== (<- Ссылка на Wiki)
+https://www.figma.com/design/A2bzoHmBMYMUMllaTpcFxI/Untitled?node-id=0-1&t=UrVDxg5eV2EEpkfM-1 (<- Ссылка на макеты)
 
 В проекте используется модель GitHub Flow.
 
